@@ -56,14 +56,14 @@ kit.stepper2.release()
 # Set to your Adafruit IO key.
 # Remember, your key is a secret,
 # so make sure not to publish it when you publish this code!
-ADAFRUIT_IO_KEY = 'aio_GCmC980kmKIZQEkmX4vaMkZB8iOW'
+ADAFRUIT_IO_KEY = 'redacted'
 
 # Set to your Adafruit IO username.
 # (go to https://accounts.adafruit.com to find your username)
-ADAFRUIT_IO_USERNAME = 'flyerfanatic93'
+ADAFRUIT_IO_USERNAME = 'redacted'
 
 # Set to the ID of the feed to subscribe to for updates.
-FEED_ID = 'Location'
+FEED_ID = 'redacted'
 
 
 # Define callback functions which will be called when certain events happen.

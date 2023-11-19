@@ -108,8 +108,8 @@ if __name__ == "__main__":
    import read_PWM
 
    PWM_GPIO = 4
-   RUN_TIME = 240
-   SAMPLE_TIME = .01
+   RUN_TIME = 10
+   SAMPLE_TIME = .1
 
    pi = pigpio.pi()
 
